@@ -1,2 +1,3 @@
 sys = root;
 sysroot = root [true];
+[*.json)]
